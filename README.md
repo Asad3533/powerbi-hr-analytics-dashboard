@@ -81,7 +81,8 @@ Users can dynamically explore data using:
 # 📷 Dashboard Preview
 
 ## 🔹 Main Dashboard
-(Add Screenshot Here)
+![Uploading HR-Dashboard.png…]()
+
 
 ---
 
