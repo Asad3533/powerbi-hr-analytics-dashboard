@@ -82,7 +82,8 @@ Users can dynamically explore data using:
 
 ## 🔹 HR Dashboard
 
-<img width="1359" height="667" alt="HR Dashboard" src="https://github.com/user-attachments/assets/6ba58f2c-ae95-422f-a078-db6aec12b09b" />
+<img width="928" height="608" alt="image" src="https://github.com/user-attachments/assets/ce74065c-2574-4e2d-afd9-a4c90b29677c" />
+
 
 ## 🔹 Salary Dashboard
 <img width="932" height="591" alt="image" src="https://github.com/user-attachments/assets/6bd53058-b54b-454f-80be-1e98bbd7c2cc" />
