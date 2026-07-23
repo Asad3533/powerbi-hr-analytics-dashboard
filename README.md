@@ -82,14 +82,17 @@ Users can dynamically explore data using:
 
 ## 🔹 HR Dashboard
 
-<img width="928" height="608" alt="image" src="https://github.com/user-attachments/assets/ce74065c-2574-4e2d-afd9-a4c90b29677c" />
+<img width="1004" height="562" alt="image" src="https://github.com/user-attachments/assets/2d420daf-d1ad-4fac-914e-34000a34add4" />
+
 
 
 ## 🔹 Salary Dashboard
-<img width="932" height="591" alt="image" src="https://github.com/user-attachments/assets/6bd53058-b54b-454f-80be-1e98bbd7c2cc" />
+<img width="1011" height="563" alt="image" src="https://github.com/user-attachments/assets/7471ff00-ca38-40b0-bc99-c9a50c129b78" />
+
 
 ## 🔹 Employee Dashboard
-<img width="940" height="565" alt="image" src="https://github.com/user-attachments/assets/07a34750-3b4d-4bb9-9cb6-cdf236276a20" />
+<img width="1001" height="562" alt="image" src="https://github.com/user-attachments/assets/a98baf47-40ef-4f07-8c16-c69e39c38a4b" />
+
 
 
 ---
